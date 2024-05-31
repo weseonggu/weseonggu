@@ -7,6 +7,10 @@ What kind of person am I?
 이름: 위성구<br>
 나이이: 25<br>
 
+> "이야기하며 더나은 발전을 위해"<br>
+안녕하세요! 벡엔드 개발자가 되고 싶은 위성구입니다.<br>
+
+
 Skills
 -----------------
 ##### 📝Platforms & Languages<br>
@@ -20,15 +24,22 @@ Skills
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
-
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
+</p>
 ##### 🔧Tools<br>
+<p>
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&amp;logo=Eclipse IDE&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&amp;logo=Eclipse IDE&amp;logoColor=white" alt="CSS3 Badge">
+</p>
 
 
-
-
-# 학습 중
-대용량 트래픽을 처리할 수 있는 서비스 개발
 # 프로젝트
-자바 스프링, 타임리프, MySQL, aws를 사용한 지역 먹자골목 정보 제공 웹서비스
+
+1. 먹골골 프로젝트
+    * 먹자골목 정보 제공 웹
+    * 전국 먹자골목 정보와 먹자골목의 식당 정보 제공
+2. 링링링 프로젝트
+    * 콜포비아 극복 서비스
+    * 통화에 불안감을 가지는 사람을 위한 AI 통화 연습 앱
+

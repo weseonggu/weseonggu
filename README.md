@@ -1,9 +1,11 @@
-Hello, visitor
+Hi My Name is Seong Gu We
 ===============
-I'm Wi Sung-gu.
+What kind of person am I?
 ---------------
-DevOps 엔진니어가 되기이해 준비하는 학생입니다.   
-현재 자바를 사용한 백엔드 개발을 공부하고 있습니다
+이름: 위성구
+나이이: 25
+📝Platforms & Languages
+<img src="https://camo.githubusercontent.com/0bc8d727618ecba6e5e0aaf5b3fa6c1d9a70d54ec1e1ae41e99e3aa91f40586a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d4f5241434c45266c6f676f436f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&amp;logo=ORACLE&amp;logoColor=FFFFFF" style="max-width: 100%;">
 # 기술 스택
 1. 자바
 2. 스프링

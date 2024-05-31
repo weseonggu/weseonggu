@@ -1,9 +1,12 @@
 Hi My Name is Seong Gu We
 ===============
+
 What kind of person am I?
 ---------------
+
 이름: 위성구<br>
 나이이: 25<br>
+
 Skills
 -----------------
 ##### 📝Platforms & Languages<br>

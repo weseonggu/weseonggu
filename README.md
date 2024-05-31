@@ -4,6 +4,8 @@ What kind of person am I?
 ---------------
 이름: 위성구<br>
 나이이: 25<br>
+Skills
+-----------------
 ##### 📝Platforms & Languages<br>
 <img src="https://camo.githubusercontent.com/0bc8d727618ecba6e5e0aaf5b3fa6c1d9a70d54ec1e1ae41e99e3aa91f40586a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d4f5241434c45266c6f676f436f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&amp;logo=ORACLE&amp;logoColor=FFFFFF" style="max-width: 100%;">
 # 기술 스택

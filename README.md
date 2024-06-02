@@ -48,10 +48,10 @@ Skills
 
 #  학교 강의 프로젝트
 
-1. Smart Portfolio
+1. [Smart Portfolio](https://github.com/weseonggu/Mobile_lecture)
     * 모바일 포트폴리오
     * 모바일 프로그래밍 기말 프로젝트(더 존비즈온 산학협력 교과목)
-2. 카드게임
+2. [카드게임](https://github.com/weseonggu/OS_lecture)
     * 운영체제 교과목 기말 미니 프로젝트
 
 

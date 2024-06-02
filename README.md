@@ -29,6 +29,9 @@ Skills
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/androidsudio-3DDC84?style=flat-square&amp;logo=androidstudio&amp;logoColor=white" alt="CSS3 Badge">
+
 </p>
 
 ##### 🔧Tools<br>

@@ -36,7 +36,7 @@ Skills
 </p>
 
 
-# 🤝프로젝트
+# 🤝 웹 프로젝트
 
 1. [먹골골](https://github.com/weseonggu/meoggolgol-project)
     * 먹자골목 정보 제공 웹
@@ -44,4 +44,14 @@ Skills
 2. [링링링](https://github.com/weseonggu/University-Project)
     * 콜포비아 극복 서비스
     * 통화에 불안감을 가지는 사람을 위한 AI 통화 연습 앱 서비스
+
+#  학교 강의 프로젝트
+
+1. Smart Portfolio
+    * 모바일 포트폴리오
+    * 모바일 프로그래밍 기말 프로젝트(더 존비즈온 산학협력 교과목)
+2. 카드게임
+    * 운영체제 교과목 기말 미니 프로젝트
+
+
 

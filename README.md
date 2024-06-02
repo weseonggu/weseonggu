@@ -37,13 +37,17 @@ Skills
 
 
 # 🤝 웹 프로젝트
-
-1. [먹골골](https://github.com/weseonggu/meoggolgol-project)
-    * 먹자골목 정보 제공 웹
-    * 전국 먹자골목 정보와 먹자골목의 식당 정보 제공 웹 서비스
-2. [링링링](https://github.com/weseonggu/University-Project)
+1. [링링링](https://github.com/weseonggu/University-Project)
     * 콜포비아 극복 서비스
     * 통화에 불안감을 가지는 사람을 위한 AI 통화 연습 앱 서비스
+    * 웹 아키텍처 구상, REST API 구축, DB 설계, AWS 배포
+    * 스프링 시큐리티를 사용한 인증 인가
+2. [먹골골](https://github.com/weseonggu/meoggolgol-project)
+    * 먹자골목 정보 제공 웹
+    * 전국 먹자골목 정보와 먹자골목의 식당 정보 제공 웹 서비스
+    * 웹 아키텍처 구상, REST API 구축, RDS 연결
+    * 셀레니움을 사용한 크롤링
+
 
 #  📝학교 강의 프로젝트
 

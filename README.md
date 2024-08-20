@@ -64,3 +64,6 @@ Skills
 
 
 
+# 블로그
+
+[weseonggu.log]:https://velog.io/@weseonggu/posts

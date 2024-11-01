@@ -12,7 +12,7 @@ Skills
 
 ##### Good
 ![Querydsl](https://img.shields.io/badge/QueryDSL-FF6F00?style=for-the-badge)
-![Spring cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 

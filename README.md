@@ -22,13 +22,14 @@ Skills
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ##### knowledgeable
 
-<img src="https://camo.githubusercontent.com/0fefba23ba0563f587464182fa460c877c1119efdd12bc55d309a86cb4c89d3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=FFFFFF" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/androidsudio-3DDC84?style=flat-square&amp;logo=androidstudio&amp;logoColor=white" alt="CSS3 Badge">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 
 
 

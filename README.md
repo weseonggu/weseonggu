@@ -6,18 +6,14 @@
 Skills
 -----------------
 ##### Strong<br>
-
-<img src="https://camo.githubusercontent.com/0bc8d727618ecba6e5e0aaf5b3fa6c1d9a70d54ec1e1ae41e99e3aa91f40586a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d4f5241434c45266c6f676f436f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&amp;logo=ORACLE&amp;logoColor=FFFFFF" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 
 ##### Good
+![Querydsl](https://img.shields.io/badge/QueryDSL-FF6F00?style=for-the-badge)
+![Spring cloud](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white" alt="Mysql Badge">
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&amp;logo=React&amp;logoColor=white" alt="CSS3 Badge">
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ##### knowledgeable
@@ -30,25 +26,9 @@ Skills
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/androidsudio-3DDC84?style=flat-square&amp;logo=androidstudio&amp;logoColor=white" alt="CSS3 Badge">
 
-#### CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-##### 🔧Tools<br>
-
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&amp;logo=Eclipse IDE&amp;logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&amp;logo=Eclipse IDE&amp;logoColor=white" alt="CSS3 Badge">
 
 
-## Test
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-
-## Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white)
 
 
 # 🤝 웹 프로젝트

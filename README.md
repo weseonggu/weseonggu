@@ -9,15 +9,9 @@ Skills
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Querydsl](https://img.shields.io/badge/QueryDSL-FF6F00?style=for-the-badge)
 ![Spring cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)<br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white)<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ##### knowledgeable
@@ -38,10 +32,9 @@ Skills
 
 # 🤝 웹 프로젝트
 1. [스파르타 뱅킹](https://github.com/weseonggu/banking-system)
-    * 온라인 뱅킹 모방하여 동시다발의 금융거래를 견딜 수 있는 서비스
+    * 온라인 뱅킹 서비스
     * 대용량 트래픽처리 가능 하도록 설계
     * MSA를 사용한 서비스 개발
-    * Redis와 Kafka를 사용한 금융거래 설계
 2. [링링링](https://github.com/weseonggu/University-Project)
     * 콜포비아 극복 서비스
     * 통화에 불안감을 가지는 사람을 위한 AI 통화 연습 앱 서비스

@@ -32,8 +32,7 @@ Skills
 
 # 🤝 웹 프로젝트
 1. [스파르타 뱅킹](https://github.com/weseonggu/banking-system)
-    * 온라인 뱅킹 서비스
-    * 대용량 트래픽처리 가능 하도록 설계
+    * 금융 서비스 모방과 사용자 예산 관리 서비스
     * MSA를 사용한 서비스 개발
 2. [링링링](https://github.com/weseonggu/University-Project)
     * 콜포비아 극복 서비스
